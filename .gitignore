@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+src/app/dashboard/page.tsx
+src/app/issued/page.tsx
+src/app/patients/page.tsx
+src/app/prescriptions/page.tsx
